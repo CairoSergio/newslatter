@@ -3,7 +3,7 @@ export default function Header(){
         <header className="max-lg:pt-4 bg-black/60 backdrop-blur-md z-10 max-lg:border-b border-b-white/30 fixed w-full flex pt-10 pb-2 items-center justify-center">
             <div className="xl:w-3/4 w-11/12 flex items-center justify-between">
                 <a href="#">
-                    <p className="font-black text-xl">TechLatter</p>
+                    <p className="font-black text-xl">TechLetter</p>
                 </a>
                 <nav className="flex gap-14 justify-center border-b border-gray-300 py-4 max-lg:hidden px-8 backdrop-blur-3xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit rounded-xl border bg-white/30">
                     <a href='#' className='font-bold'>Home</a>

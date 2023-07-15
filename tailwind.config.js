@@ -11,6 +11,9 @@ module.exports = {
         '90': '90%',
         'small': '0.5rem'
       },
+      colors:{
+        'darkmode': 'rgb(17, 17, 17)'
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
